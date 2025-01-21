@@ -1,4 +1,5 @@
-## created by: Elizabeth Hoffman
+## Created by: Elizabeth Hoffman
+Spring Semester 2025
 ## Course Goals
 - Learn data cleaning, manipulation, and visualization techniques.
 - Master Python and key data science libraries such as Pandas, NumPy, and Matplotlib.
