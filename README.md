@@ -1,3 +1,4 @@
+## created by: Elizabeth Hoffman
 ## Course Goals
 - Learn data cleaning, manipulation, and visualization techniques.
 - Master Python and key data science libraries such as Pandas, NumPy, and Matplotlib.
