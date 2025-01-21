@@ -1,5 +1,6 @@
 ## Created by: Elizabeth Hoffman
 Spring Semester 2025
+
 Contact me: 11027152@uvu.edu
 ## Course Goals
 - Learn data cleaning, manipulation, and visualization techniques.
