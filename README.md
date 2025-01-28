@@ -4,7 +4,6 @@ Spring Semester 2025
 Contact me: 11027152@uvu.edu
 ## Course Goals
 - Learn data cleaning, manipulation, and visualization techniques.
-- Master Python and key data science libraries such as Pandas, NumPy, and Matplotlib.
 - Complete hands-on exercises and projects on time.
 ## Table of contents 
 1. [About the Course](#about-the-course)
